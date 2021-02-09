@@ -1,3 +1,9 @@
 img {
-    height: 100px;
+    height: 800px;
+    resize: both;
 }
+
+h1 {
+    font-weight: bolder;
+}
+
